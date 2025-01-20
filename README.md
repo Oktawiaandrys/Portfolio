@@ -24,7 +24,7 @@ The functionality should allow manual management of the order of catalogs displa
    * If no catalog has been pinned, the user will initially see the default order, and any order other than the default will be considered a custom order.
 
 ### Acceptance criteria and test plan 
-[This document](https://drive.google.com/file/d/1SGFOp4JpKDVWT8OdnoX8MIv393rdJfWx/view?usp=sharing) outlines the purpose, scope, and approach for testing.
+* [This document](https://drive.google.com/file/d/1SGFOp4JpKDVWT8OdnoX8MIv393rdJfWx/view?usp=sharing) outlines the purpose, scope, and approach for testing.
 It defines the acceptance criteria, testing strategies to ensure the feature meets the required standards.
 
 ### Test cases 

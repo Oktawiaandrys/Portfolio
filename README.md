@@ -1,5 +1,4 @@
-<h1>Hi, I'm Oktawia! 
-
+<h1>Hi, I'm Oktawia! 👋
 
 ## ✨ Project: adding a new feature for setting the order of catalogs in the admin panel
 ### Overview: 
@@ -25,21 +24,15 @@ The functionality should allow manual management of the order of catalogs displa
    * If no catalog has been pinned, the user will initially see the default order, and any order other than the default will be considered a custom order.
 
 ### Acceptance criteria and test plan 
-This document outlines the purpose, scope, and approach for testing.
+[This document](https://drive.google.com/file/d/1SGFOp4JpKDVWT8OdnoX8MIv393rdJfWx/view?usp=sharing) outlines the purpose, scope, and approach for testing.
 It defines the acceptance criteria, testing strategies to ensure the feature meets the required standards.
 
-
-
-
-
-
 ### Test cases 
-* 
+*  Test cases for the [new feature](https://drive.google.com/file/d/1_K6bmKztZoZFwznyxe38dsmWO7w7Itf7/view?usp=sharing)
 
-
-###  Bug report
-<b>Issue Summary:</b>  a contact form message was received via email, but it is not dispalyed correctly and contains content errors.
- * Bug  Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
+## 🐛 Bug report
+<b>Issue Summary:</b> a contact form message was received via email, but it is not dispalyed correctly and contains content errors.
+ * [Reported bug ](https://drive.google.com/file/d/1djsoN9irGKnp7Ly22Q5aFSTFmwx9CJOE/view?usp=sharing) of a contact form that has been recieved via mail.
 
 
 

@@ -20,15 +20,9 @@ The functionality should allow manual management of the order of catalogs displa
 - #### Default Order:
     * If no catalog has been pinned, the default order will be sorted from the newest to the oldest.
 
-Custom Order:
-
-Custom order will be available after the new functionality is implemented.
-If no catalog has been pinned, the user will initially see the default order, and any order other than the default will be considered a custom order.
-
-
-
-
-
+- #### Custom Order:
+   * Custom order will be available after the new functionality is implemented.
+   * If no catalog has been pinned, the user will initially see the default order, and any order other than the default will be considered a custom order.
 
 ### Acceptance criteria and test plan 
 This document outlines the purpose, scope, and approach for testing.
@@ -40,12 +34,12 @@ It defines the acceptance criteria, testing strategies to ensure the feature mee
 
 
 ### Test cases 
-* Check test cases 
-
+* 
 
 
 ###  Bug report
 <b>Issue Summary:</b>  a contact form message was received via email, but it is not dispalyed correctly and contains content errors.
  * Bug  Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
+
 
 

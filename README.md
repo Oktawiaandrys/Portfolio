@@ -1,5 +1,3 @@
-<h1>Hi, I'm Oktawia! 👋
-
 ## ✨ Project: adding a new feature for setting the order of catalogs in the admin panel
 ### Overview: 
 A new section with functionality needs to be added to the admin panel.
